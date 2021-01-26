@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Neznayka:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Neznayka_jar</output-path>
+    <root id="archive" name="Neznayka.jar">
+      <element id="module-output" name="Neznayka" />
+    </root>
+  </artifact>
+</component>
