@@ -1,9 +1,7 @@
-public class Toropizhka extends Hirro{
+public class Toropizhka extends HiroMove {
 
     private static final String name = "Торопыжка";
 
-    public Toropizhka(){
-        super(name, Toropizhka.class.getName());
-    }
+    public Toropizhka(){}
 
 }
